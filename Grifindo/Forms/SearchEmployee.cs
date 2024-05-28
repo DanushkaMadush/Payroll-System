@@ -58,12 +58,12 @@ namespace Grifindo.Forms
 
 
                     txtaddress.Text = dr[5].ToString();
-                    txtemail.Text = dr[6].ToString();
-                    txtcontact.Text = dr[7].ToString();
+                    txtemail.Text = dr[7].ToString();
+                    txtcontact.Text = dr[6].ToString();
                     txtnic.Text = dr[8].ToString();
                     txtmonthlySalary.Text = dr[9].ToString();
-                    txtotRate.Text = dr[10].ToString();
-                    txtallowances.Text = dr[11].ToString();
+                    txtotRate.Text = dr[11].ToString();
+                    txtallowances.Text = dr[10].ToString();
                 }
 
                 else
@@ -94,7 +94,7 @@ namespace Grifindo.Forms
         private void cmbemployee_ID_Leave(object sender, EventArgs e)
         {
             load_employee();
-        }//load details when leace
+        }//load details when leave combo box
 
         private void btnClear_Click(object sender, EventArgs e)
         {
@@ -209,5 +209,10 @@ namespace Grifindo.Forms
                 MessageBox.Show(ex.Message);
             }
         }//Delete records
+
+        private void cmbemployee_ID_TextChanged(object sender, EventArgs e)
+        {
+            //load_employee();
+        }//not worked
     }
 }

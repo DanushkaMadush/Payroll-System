@@ -79,7 +79,7 @@
             txtusername.BackColor = Color.FromArgb(64, 64, 64);
             txtusername.BorderStyle = BorderStyle.FixedSingle;
             txtusername.Font = new Font("Arial Rounded MT Bold", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtusername.ForeColor = Color.Fuchsia;
+            txtusername.ForeColor = SystemColors.ActiveCaption;
             txtusername.Location = new Point(498, 196);
             txtusername.Name = "txtusername";
             txtusername.Size = new Size(289, 39);
@@ -90,7 +90,7 @@
             txtpassword.BackColor = Color.FromArgb(64, 64, 64);
             txtpassword.BorderStyle = BorderStyle.FixedSingle;
             txtpassword.Font = new Font("Arial Rounded MT Bold", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtpassword.ForeColor = Color.Fuchsia;
+            txtpassword.ForeColor = SystemColors.ActiveCaption;
             txtpassword.Location = new Point(498, 262);
             txtpassword.Name = "txtpassword";
             txtpassword.PasswordChar = '*';

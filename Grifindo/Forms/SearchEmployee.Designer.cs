@@ -327,6 +327,7 @@
             cmbemployee_ID.Size = new Size(121, 23);
             cmbemployee_ID.TabIndex = 51;
             cmbemployee_ID.SelectedValueChanged += cmbemployee_ID_SelectedValueChanged;
+            cmbemployee_ID.TextChanged += cmbemployee_ID_TextChanged;
             cmbemployee_ID.Leave += cmbemployee_ID_Leave;
             // 
             // btnDelete
