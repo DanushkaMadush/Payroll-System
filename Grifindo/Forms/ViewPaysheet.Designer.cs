@@ -189,7 +189,7 @@
             // 
             label33.AutoSize = true;
             label33.Font = new Font("Lucida Console", 9.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label33.Location = new Point(284, 324);
+            label33.Location = new Point(284, 351);
             label33.Name = "label33";
             label33.Size = new Size(39, 13);
             label33.TabIndex = 126;
@@ -197,19 +197,19 @@
             // 
             // txtabsentdays
             // 
-            txtabsentdays.BorderStyle = BorderStyle.None;
+            txtabsentdays.BorderStyle = BorderStyle.FixedSingle;
             txtabsentdays.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtabsentdays.Location = new Point(223, 319);
+            txtabsentdays.Location = new Point(223, 346);
             txtabsentdays.Name = "txtabsentdays";
             txtabsentdays.ReadOnly = true;
-            txtabsentdays.Size = new Size(58, 16);
+            txtabsentdays.Size = new Size(58, 23);
             txtabsentdays.TabIndex = 125;
             // 
             // label30
             // 
             label30.AutoSize = true;
             label30.Font = new Font("Lucida Console", 9.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label30.Location = new Point(285, 241);
+            label30.Location = new Point(285, 254);
             label30.Name = "label30";
             label30.Size = new Size(31, 13);
             label30.TabIndex = 124;
@@ -219,7 +219,7 @@
             // 
             label31.AutoSize = true;
             label31.Font = new Font("Lucida Console", 9.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label31.Location = new Point(284, 218);
+            label31.Location = new Point(284, 231);
             label31.Name = "label31";
             label31.Size = new Size(31, 13);
             label31.TabIndex = 123;
@@ -229,7 +229,7 @@
             // 
             label32.AutoSize = true;
             label32.Font = new Font("Lucida Console", 9.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label32.Location = new Point(284, 197);
+            label32.Location = new Point(284, 210);
             label32.Name = "label32";
             label32.Size = new Size(31, 13);
             label32.TabIndex = 122;
@@ -237,39 +237,39 @@
             // 
             // txttripleot
             // 
-            txttripleot.BorderStyle = BorderStyle.None;
+            txttripleot.BorderStyle = BorderStyle.FixedSingle;
             txttripleot.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txttripleot.Location = new Point(224, 236);
+            txttripleot.Location = new Point(224, 249);
             txttripleot.Name = "txttripleot";
             txttripleot.ReadOnly = true;
-            txttripleot.Size = new Size(58, 16);
+            txttripleot.Size = new Size(58, 23);
             txttripleot.TabIndex = 121;
             // 
             // txtnormalot
             // 
-            txtnormalot.BorderStyle = BorderStyle.None;
+            txtnormalot.BorderStyle = BorderStyle.FixedSingle;
             txtnormalot.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtnormalot.Location = new Point(224, 192);
+            txtnormalot.Location = new Point(224, 205);
             txtnormalot.Name = "txtnormalot";
             txtnormalot.ReadOnly = true;
-            txtnormalot.Size = new Size(58, 16);
+            txtnormalot.Size = new Size(58, 23);
             txtnormalot.TabIndex = 120;
             // 
             // txtdoubleot
             // 
-            txtdoubleot.BorderStyle = BorderStyle.None;
+            txtdoubleot.BorderStyle = BorderStyle.FixedSingle;
             txtdoubleot.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtdoubleot.Location = new Point(224, 214);
+            txtdoubleot.Location = new Point(224, 227);
             txtdoubleot.Name = "txtdoubleot";
             txtdoubleot.ReadOnly = true;
-            txtdoubleot.Size = new Size(58, 16);
+            txtdoubleot.Size = new Size(58, 23);
             txtdoubleot.TabIndex = 119;
             // 
             // label28
             // 
             label28.AutoSize = true;
             label28.Font = new Font("Lucida Console", 9.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label28.Location = new Point(333, 291);
+            label28.Location = new Point(333, 304);
             label28.Name = "label28";
             label28.Size = new Size(31, 13);
             label28.TabIndex = 118;
@@ -279,7 +279,7 @@
             // 
             label29.AutoSize = true;
             label29.Font = new Font("Lucida Console", 9.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label29.Location = new Point(333, 388);
+            label29.Location = new Point(333, 423);
             label29.Name = "label29";
             label29.Size = new Size(31, 13);
             label29.TabIndex = 117;
@@ -289,7 +289,7 @@
             // 
             label26.AutoSize = true;
             label26.Font = new Font("Lucida Console", 9.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label26.Location = new Point(333, 346);
+            label26.Location = new Point(333, 373);
             label26.Name = "label26";
             label26.Size = new Size(31, 13);
             label26.TabIndex = 116;
@@ -299,7 +299,7 @@
             // 
             label27.AutoSize = true;
             label27.Font = new Font("Lucida Console", 9.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label27.Location = new Point(333, 325);
+            label27.Location = new Point(333, 352);
             label27.Name = "label27";
             label27.Size = new Size(31, 13);
             label27.TabIndex = 115;
@@ -309,7 +309,7 @@
             // 
             label24.AutoSize = true;
             label24.Font = new Font("Lucida Console", 9.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label24.Location = new Point(331, 258);
+            label24.Location = new Point(331, 271);
             label24.Name = "label24";
             label24.Size = new Size(31, 13);
             label24.TabIndex = 114;
@@ -319,7 +319,7 @@
             // 
             label25.AutoSize = true;
             label25.Font = new Font("Lucida Console", 9.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label25.Location = new Point(331, 237);
+            label25.Location = new Point(331, 250);
             label25.Name = "label25";
             label25.Size = new Size(31, 13);
             label25.TabIndex = 113;
@@ -329,7 +329,7 @@
             // 
             label22.AutoSize = true;
             label22.Font = new Font("Lucida Console", 9.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label22.Location = new Point(330, 214);
+            label22.Location = new Point(330, 227);
             label22.Name = "label22";
             label22.Size = new Size(31, 13);
             label22.TabIndex = 112;
@@ -339,7 +339,7 @@
             // 
             label23.AutoSize = true;
             label23.Font = new Font("Lucida Console", 9.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label23.Location = new Point(330, 193);
+            label23.Location = new Point(330, 206);
             label23.Name = "label23";
             label23.Size = new Size(31, 13);
             label23.TabIndex = 111;
@@ -349,7 +349,7 @@
             // 
             label21.AutoSize = true;
             label21.Font = new Font("Lucida Console", 9.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label21.Location = new Point(333, 141);
+            label21.Location = new Point(333, 149);
             label21.Name = "label21";
             label21.Size = new Size(31, 13);
             label21.TabIndex = 110;
@@ -359,7 +359,7 @@
             // 
             label20.AutoSize = true;
             label20.Font = new Font("Lucida Console", 9.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label20.Location = new Point(333, 120);
+            label20.Location = new Point(333, 128);
             label20.Name = "label20";
             label20.Size = new Size(31, 13);
             label20.TabIndex = 109;
@@ -367,19 +367,19 @@
             // 
             // txtgrosspayment
             // 
-            txtgrosspayment.BorderStyle = BorderStyle.None;
+            txtgrosspayment.BorderStyle = BorderStyle.FixedSingle;
             txtgrosspayment.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtgrosspayment.Location = new Point(364, 382);
+            txtgrosspayment.Location = new Point(364, 417);
             txtgrosspayment.Name = "txtgrosspayment";
             txtgrosspayment.ReadOnly = true;
-            txtgrosspayment.Size = new Size(164, 16);
+            txtgrosspayment.Size = new Size(164, 23);
             txtgrosspayment.TabIndex = 108;
             // 
             // label19
             // 
             label19.AutoSize = true;
             label19.Font = new Font("Lucida Console", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label19.Location = new Point(52, 386);
+            label19.Location = new Point(52, 421);
             label19.Name = "label19";
             label19.Size = new Size(165, 19);
             label19.TabIndex = 107;
@@ -389,7 +389,7 @@
             // 
             label18.AutoSize = true;
             label18.Font = new Font("Lucida Console", 8.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label18.Location = new Point(1, 365);
+            label18.Location = new Point(1, 397);
             label18.Name = "label18";
             label18.Size = new Size(565, 11);
             label18.TabIndex = 106;
@@ -397,29 +397,29 @@
             // 
             // txtnopayvalue
             // 
-            txtnopayvalue.BorderStyle = BorderStyle.None;
+            txtnopayvalue.BorderStyle = BorderStyle.FixedSingle;
             txtnopayvalue.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtnopayvalue.Location = new Point(364, 319);
+            txtnopayvalue.Location = new Point(364, 346);
             txtnopayvalue.Name = "txtnopayvalue";
             txtnopayvalue.ReadOnly = true;
-            txtnopayvalue.Size = new Size(164, 16);
+            txtnopayvalue.Size = new Size(164, 23);
             txtnopayvalue.TabIndex = 105;
             // 
             // txttaxvalue
             // 
-            txttaxvalue.BorderStyle = BorderStyle.None;
+            txttaxvalue.BorderStyle = BorderStyle.FixedSingle;
             txttaxvalue.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txttaxvalue.Location = new Point(364, 341);
+            txttaxvalue.Location = new Point(364, 368);
             txttaxvalue.Name = "txttaxvalue";
             txttaxvalue.ReadOnly = true;
-            txttaxvalue.Size = new Size(164, 16);
+            txttaxvalue.Size = new Size(164, 23);
             txttaxvalue.TabIndex = 104;
             // 
             // label16
             // 
             label16.AutoSize = true;
             label16.Font = new Font("Lucida Console", 12F);
-            label16.Location = new Point(90, 322);
+            label16.Location = new Point(90, 349);
             label16.Name = "label16";
             label16.Size = new Size(127, 16);
             label16.TabIndex = 103;
@@ -429,7 +429,7 @@
             // 
             label17.AutoSize = true;
             label17.Font = new Font("Lucida Console", 12F);
-            label17.Location = new Point(180, 344);
+            label17.Location = new Point(180, 371);
             label17.Name = "label17";
             label17.Size = new Size(37, 16);
             label17.TabIndex = 102;
@@ -439,7 +439,7 @@
             // 
             label15.AutoSize = true;
             label15.Font = new Font("Lucida Console", 8.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label15.Location = new Point(1, 309);
+            label15.Location = new Point(1, 326);
             label15.Name = "label15";
             label15.Size = new Size(565, 11);
             label15.TabIndex = 101;
@@ -447,19 +447,19 @@
             // 
             // txtbasepay
             // 
-            txtbasepay.BorderStyle = BorderStyle.None;
+            txtbasepay.BorderStyle = BorderStyle.FixedSingle;
             txtbasepay.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtbasepay.Location = new Point(364, 285);
+            txtbasepay.Location = new Point(364, 298);
             txtbasepay.Name = "txtbasepay";
             txtbasepay.ReadOnly = true;
-            txtbasepay.Size = new Size(164, 16);
+            txtbasepay.Size = new Size(164, 23);
             txtbasepay.TabIndex = 100;
             // 
             // label14
             // 
             label14.AutoSize = true;
             label14.Font = new Font("Lucida Console", 12F);
-            label14.Location = new Point(70, 288);
+            label14.Location = new Point(70, 301);
             label14.Name = "label14";
             label14.Size = new Size(147, 16);
             label14.TabIndex = 99;
@@ -467,49 +467,49 @@
             // 
             // txttripleotvalue
             // 
-            txttripleotvalue.BorderStyle = BorderStyle.None;
+            txttripleotvalue.BorderStyle = BorderStyle.FixedSingle;
             txttripleotvalue.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txttripleotvalue.Location = new Point(364, 231);
+            txttripleotvalue.Location = new Point(364, 244);
             txttripleotvalue.Name = "txttripleotvalue";
             txttripleotvalue.ReadOnly = true;
-            txttripleotvalue.Size = new Size(164, 16);
+            txttripleotvalue.Size = new Size(164, 23);
             txttripleotvalue.TabIndex = 98;
             // 
             // txttotalot
             // 
-            txttotalot.BorderStyle = BorderStyle.None;
+            txttotalot.BorderStyle = BorderStyle.FixedSingle;
             txttotalot.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txttotalot.Location = new Point(364, 252);
+            txttotalot.Location = new Point(364, 265);
             txttotalot.Name = "txttotalot";
             txttotalot.ReadOnly = true;
-            txttotalot.Size = new Size(164, 16);
+            txttotalot.Size = new Size(164, 23);
             txttotalot.TabIndex = 97;
             // 
             // txtnormalotvalue
             // 
-            txtnormalotvalue.BorderStyle = BorderStyle.None;
+            txtnormalotvalue.BorderStyle = BorderStyle.FixedSingle;
             txtnormalotvalue.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtnormalotvalue.Location = new Point(364, 187);
+            txtnormalotvalue.Location = new Point(364, 200);
             txtnormalotvalue.Name = "txtnormalotvalue";
             txtnormalotvalue.ReadOnly = true;
-            txtnormalotvalue.Size = new Size(164, 16);
+            txtnormalotvalue.Size = new Size(164, 23);
             txtnormalotvalue.TabIndex = 96;
             // 
             // txtdoubleotvalue
             // 
-            txtdoubleotvalue.BorderStyle = BorderStyle.None;
+            txtdoubleotvalue.BorderStyle = BorderStyle.FixedSingle;
             txtdoubleotvalue.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtdoubleotvalue.Location = new Point(364, 209);
+            txtdoubleotvalue.Location = new Point(364, 222);
             txtdoubleotvalue.Name = "txtdoubleotvalue";
             txtdoubleotvalue.ReadOnly = true;
-            txtdoubleotvalue.Size = new Size(164, 16);
+            txtdoubleotvalue.Size = new Size(164, 23);
             txtdoubleotvalue.TabIndex = 95;
             // 
             // label13
             // 
             label13.AutoSize = true;
             label13.Font = new Font("Lucida Console", 12F);
-            label13.Location = new Point(120, 190);
+            label13.Location = new Point(120, 203);
             label13.Name = "label13";
             label13.Size = new Size(97, 16);
             label13.TabIndex = 94;
@@ -519,7 +519,7 @@
             // 
             label11.AutoSize = true;
             label11.Font = new Font("Lucida Console", 12F);
-            label11.Location = new Point(120, 212);
+            label11.Location = new Point(120, 225);
             label11.Name = "label11";
             label11.Size = new Size(97, 16);
             label11.TabIndex = 93;
@@ -529,7 +529,7 @@
             // 
             label10.AutoSize = true;
             label10.Font = new Font("Lucida Console", 12F);
-            label10.Location = new Point(120, 234);
+            label10.Location = new Point(120, 247);
             label10.Name = "label10";
             label10.Size = new Size(97, 16);
             label10.TabIndex = 92;
@@ -539,7 +539,7 @@
             // 
             label9.AutoSize = true;
             label9.Font = new Font("Lucida Console", 12F);
-            label9.Location = new Point(160, 257);
+            label9.Location = new Point(160, 270);
             label9.Name = "label9";
             label9.Size = new Size(57, 16);
             label9.TabIndex = 91;
@@ -547,29 +547,29 @@
             // 
             // txtmonthlysalary
             // 
-            txtmonthlysalary.BorderStyle = BorderStyle.None;
+            txtmonthlysalary.BorderStyle = BorderStyle.FixedSingle;
             txtmonthlysalary.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtmonthlysalary.Location = new Point(364, 114);
+            txtmonthlysalary.Location = new Point(364, 122);
             txtmonthlysalary.Name = "txtmonthlysalary";
             txtmonthlysalary.ReadOnly = true;
-            txtmonthlysalary.Size = new Size(164, 16);
+            txtmonthlysalary.Size = new Size(164, 23);
             txtmonthlysalary.TabIndex = 90;
             // 
             // txtallowances
             // 
-            txtallowances.BorderStyle = BorderStyle.None;
+            txtallowances.BorderStyle = BorderStyle.FixedSingle;
             txtallowances.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtallowances.Location = new Point(364, 135);
+            txtallowances.Location = new Point(364, 143);
             txtallowances.Name = "txtallowances";
             txtallowances.ReadOnly = true;
-            txtallowances.Size = new Size(164, 16);
+            txtallowances.Size = new Size(164, 23);
             txtallowances.TabIndex = 89;
             // 
             // label8
             // 
             label8.AutoSize = true;
             label8.Font = new Font("Lucida Console", 8.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label8.Location = new Point(2, 169);
+            label8.Location = new Point(2, 177);
             label8.Name = "label8";
             label8.Size = new Size(565, 11);
             label8.TabIndex = 88;
@@ -579,7 +579,7 @@
             // 
             label7.AutoSize = true;
             label7.Font = new Font("Lucida Console", 12F);
-            label7.Location = new Point(70, 117);
+            label7.Location = new Point(70, 125);
             label7.Name = "label7";
             label7.Size = new Size(147, 16);
             label7.TabIndex = 87;
@@ -589,7 +589,7 @@
             // 
             label6.AutoSize = true;
             label6.Font = new Font("Lucida Console", 12F);
-            label6.Location = new Point(110, 138);
+            label6.Location = new Point(110, 146);
             label6.Name = "label6";
             label6.Size = new Size(107, 16);
             label6.TabIndex = 86;
@@ -599,7 +599,7 @@
             // 
             label5.AutoSize = true;
             label5.Font = new Font("Lucida Console", 8.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label5.Location = new Point(2, 88);
+            label5.Location = new Point(2, 96);
             label5.Name = "label5";
             label5.Size = new Size(565, 11);
             label5.TabIndex = 85;
@@ -618,7 +618,7 @@
             txtemployee_ID.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             txtemployee_ID.Location = new Point(145, 43);
             txtemployee_ID.Name = "txtemployee_ID";
-            txtemployee_ID.Size = new Size(100, 23);
+            txtemployee_ID.Size = new Size(164, 23);
             txtemployee_ID.TabIndex = 83;
             // 
             // txtfname
@@ -634,7 +634,7 @@
             txthead.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             txthead.Location = new Point(145, 21);
             txthead.Name = "txthead";
-            txthead.Size = new Size(100, 23);
+            txthead.Size = new Size(164, 23);
             txthead.TabIndex = 81;
             // 
             // label4
@@ -687,6 +687,7 @@
             btnclear.TabIndex = 92;
             btnclear.Text = "Clear";
             btnclear.UseVisualStyleBackColor = true;
+            btnclear.Click += btnclear_Click;
             // 
             // ViewPaysheet
             // 

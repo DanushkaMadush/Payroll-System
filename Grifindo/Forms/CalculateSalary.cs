@@ -119,8 +119,8 @@ namespace Grifindo.Forms
                 if (dr.Read())
                 {
                     txtmonthlySalary.Text = dr[9].ToString();
-                    txtotRate.Text = dr[10].ToString();
-                    txtallowances.Text = dr[11].ToString();
+                    txtotRate.Text = dr[11].ToString();
+                    txtallowances.Text = dr[10].ToString();
                 }
 
                 else

@@ -127,5 +127,29 @@ namespace Grifindo.Forms
             }
 
         }//load details
+
+        private void btnclear_Click(object sender, EventArgs e)
+        {
+            txthead.Clear();
+            txtemployee_ID.Clear();
+            txtfname.Clear();
+            txtlname.Clear();
+            txtmonthlysalary.Clear();
+            txtallowances.Clear();
+            txtnormalot.Clear();
+            txtdoubleot.Clear();
+            txttripleot.Clear();
+            txtnormalotvalue.Clear();
+            txtdoubleotvalue.Clear();
+            txttripleotvalue.Clear();
+            txttotalot.Clear();
+            txtbasepay.Clear();
+            txtabsentdays.Clear();
+            txtnopayvalue.Clear();
+            txttaxvalue.Clear();
+            txtgrosspayment.Clear();
+            cmbMonth.ResetText();
+            cmbemployee_ID.ResetText();
+        }//clear fields
     }
 }
